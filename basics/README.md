@@ -21,3 +21,6 @@
 
 # 7-movethatfile
 ## Move betty file from /tmp to /tmp/my_first_directory
+
+# 8-firstdelete
+## Remove file betty from /tmp
