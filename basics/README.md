@@ -15,3 +15,6 @@
 
 # 5-listfilesdigitonly
 ## Show files and dirs including hidden but with user id and group id
+
+# 6-firstdirectory
+## Make directory in /tmp called my_first_directory
