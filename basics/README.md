@@ -18,3 +18,6 @@
 
 # 6-firstdirectory
 ## Make directory in /tmp called my_first_directory
+
+# 7-movethatfile
+## Move betty file from /tmp to /tmp/my_first_directory
