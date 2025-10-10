@@ -9,3 +9,6 @@
 
 # 3-listfiles
 ## Show files and dirs in current working directory in a long format
+
+# 4-listmorefiles
+## Show files and dirs in current working directory in a long format but including hidden
