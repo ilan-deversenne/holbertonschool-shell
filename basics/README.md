@@ -24,3 +24,6 @@
 
 # 8-firstdelete
 ## Remove file betty from /tmp
+
+# 9-firstdirdeletion
+## Remove my_first_directory directory from /tmp
