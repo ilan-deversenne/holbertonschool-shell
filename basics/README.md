@@ -30,3 +30,6 @@
 
 # 10-back
 ## Back to previous directory
+
+# 11-lists
+## List all files of current working directory and parrent of current working directory and /boot
