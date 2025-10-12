@@ -39,3 +39,6 @@
 
 # 13-symbolic_link
 ## Create symbolic link named __ls__ of /bin/ls to current directory
+
+# 14-copy_html
+## Copy all html files to parrent directory
