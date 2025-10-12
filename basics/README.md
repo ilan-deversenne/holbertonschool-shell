@@ -36,3 +36,6 @@
 
 # 12-file_type
 ## Print type of file /tmp/iamafile
+
+# 13-symbolic_link
+## Create symbolic link named __ls__ of /bin/ls to current directory
