@@ -48,3 +48,6 @@
 
 # 16-clean_emacs
 ## Remove all files end by ~
+
+# 17-tree
+## Create welcome/to/school directory
