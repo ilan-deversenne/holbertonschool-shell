@@ -45,3 +45,6 @@
 
 # 15-lets_move
 ## Move all files start with uppercase
+
+# 16-clean_emacs
+## Remove all files end by ~
