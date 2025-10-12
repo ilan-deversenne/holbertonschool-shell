@@ -33,3 +33,6 @@
 
 # 11-lists
 ## List all files of current working directory and parrent of current working directory and /boot
+
+# 12-file_type
+## Print type of file /tmp/iamafile
