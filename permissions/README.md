@@ -3,3 +3,6 @@
 
 # 1-who_am_i
 ## Print current user name
+
+# 2-groups
+## Prints all the groups the current user is part of
