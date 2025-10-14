@@ -24,3 +24,6 @@
 
 # 8-James_Bond
 ## Set permission only to other of file hello
+
+# 9-John_Doe
+## Set permission to -rwxr-x-wx
