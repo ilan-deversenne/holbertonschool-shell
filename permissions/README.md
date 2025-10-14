@@ -15,3 +15,6 @@
 
 # 5-execute
 ## Add execution permission to the owner of file hello
+
+# 6-multiple_permissions
+## Add execution permmision to the owner and group of file hello
