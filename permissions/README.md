@@ -12,3 +12,6 @@
 
 # 4-empty
 ## Create an empty file called hello
+
+# 5-execute
+## Add execution permission to the owner of file hello
