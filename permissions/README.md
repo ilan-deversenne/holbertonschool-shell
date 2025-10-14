@@ -27,3 +27,6 @@
 
 # 9-John_Doe
 ## Set permission to -rwxr-x-wx
+
+# 10-mirror_permissions
+## Set permission of file hello to the permission of file olleh
