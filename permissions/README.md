@@ -18,3 +18,6 @@
 
 # 6-multiple_permissions
 ## Add execution permmision to the owner and group of file hello
+
+# 7-everybody
+## Add execution permission for everbody
