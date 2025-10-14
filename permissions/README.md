@@ -30,3 +30,6 @@
 
 # 10-mirror_permissions
 ## Set permission of file hello to the permission of file olleh
+
+# 11-directories_permissions
+## Add execution permission to other of current dirrectory and all sub directories
