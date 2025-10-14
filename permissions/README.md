@@ -21,3 +21,6 @@
 
 # 7-everybody
 ## Add execution permission for everbody
+
+# 8-James_Bond
+## Set permission only to other of file hello
