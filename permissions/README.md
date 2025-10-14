@@ -33,3 +33,9 @@
 
 # 11-directories_permissions
 ## Add execution permission to other of current dirrectory and all sub directories
+
+# 12-directory_permissions
+## Create dir called my_dir and set permission 751
+
+# 13-change_group
+## Change groupe owner of file hello to school
