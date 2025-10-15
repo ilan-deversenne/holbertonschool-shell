@@ -39,3 +39,6 @@
 
 # 13-change_group
 ## Change groupe owner of file hello to school
+
+# 14-change_owner_and_group
+## Change owner to vincent and group to staff of all files and directories is part of current directories
