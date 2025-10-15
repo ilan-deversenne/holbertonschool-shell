@@ -42,3 +42,6 @@
 
 # 14-change_owner_and_group
 ## Change owner to vincent and group to staff of all files and directories is part of current directories
+
+# 15-symbolic_link_permissions
+## Change owner and the group owner of _hello to vincent and staff
