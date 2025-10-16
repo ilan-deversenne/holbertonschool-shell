@@ -10,6 +10,9 @@
 # 3-twofiles
 ## Display content of /etc/passwd and /etc/hosts
 
+# 4-lastlines
+## Show 10 last chars of /etc/passwd
+
 # 5-firstlines
 ## Show 10 first chars of /etc/passwd
 
