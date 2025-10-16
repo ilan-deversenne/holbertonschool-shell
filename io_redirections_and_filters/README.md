@@ -12,3 +12,6 @@
 
 # 5-firstlines
 ## Show 10 first chars of /etc/passwd
+
+# 6-third_line
+## Show the line 3 of the file iacta
