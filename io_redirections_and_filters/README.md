@@ -30,3 +30,6 @@
 
 # 10-no_more_js
 ## Remove all files ended by .js but exclude dirs
+
+# 11-directories
+## Count dirs but exclude ./
