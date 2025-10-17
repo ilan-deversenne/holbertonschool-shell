@@ -18,3 +18,9 @@
 
 # 6-third_line
 ## Show the line 3 of the file iacta
+
+# 7-file
+## Create file named \*\\'"Best School"\'\\*$\?\*\*\*\*\*:) with Best School has content
+
+# 8-cwd_state
+## Write file with content of ls -la
