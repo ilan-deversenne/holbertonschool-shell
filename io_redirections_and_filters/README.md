@@ -24,3 +24,6 @@
 
 # 8-cwd_state
 ## Write file with content of ls -la
+
+# 9-duplicate_last_line
+## Duplicate last line of iacta
