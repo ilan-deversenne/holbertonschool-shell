@@ -27,3 +27,6 @@
 
 # 9-duplicate_last_line
 ## Duplicate last line of iacta
+
+# 10-no_more_js
+## Remove all files ended by .js but exclude dirs
