@@ -54,3 +54,6 @@
 
 # 18-letteronly
 ## Display only line that start with an uppercase
+
+# 19-AZ
+## Show input but replace A to Z and c to e
