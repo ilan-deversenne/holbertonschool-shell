@@ -39,3 +39,6 @@
 
 # 13-unique
 ## Take a list has input and prints only unique word
+
+# 14-findthatword
+## Show /etc/passwd lines that contain "root"
