@@ -60,3 +60,6 @@
 
 # 20-hiago
 ## Display input but remove 'c' and 'C'
+
+# 21-reverse
+## Display input but reversed
