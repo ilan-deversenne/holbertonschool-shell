@@ -48,3 +48,6 @@
 
 # 16-whatnext
 ## Display lines containing "root" and the 3 next lines
+
+# 17-hidethisword
+## Display lines that not contain "bin"
