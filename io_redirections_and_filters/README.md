@@ -42,3 +42,6 @@
 
 # 14-findthatword
 ## Show /etc/passwd lines that contain "root"
+
+# 15-countthatword
+## Count number of line that contains "bin"
