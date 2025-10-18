@@ -21,3 +21,6 @@
 
 # 7-create_global_variable
 ## Create env var BEST: School
+
+# 8-true_knowledge
+## Calculate TRUEKNOWLEDGE env var + 128
