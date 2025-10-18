@@ -15,3 +15,6 @@
 
 # 5-local_variables
 ## Show local vars, env vars and functions
+
+# 6-create_local_variable
+## Create local var BEST: School
