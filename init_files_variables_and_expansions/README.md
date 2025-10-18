@@ -9,3 +9,6 @@
 
 # 3-paths
 ## Counts dirs in PATH
+
+# 4-global_variables
+## Print env vars
