@@ -51,3 +51,6 @@
 
 # 17-hidethisword
 ## Display lines that not contain "bin"
+
+# 18-letteronly
+## Display only line that start with an uppercase
