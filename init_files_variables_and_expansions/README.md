@@ -12,3 +12,6 @@
 
 # 4-global_variables
 ## Print env vars
+
+# 5-local_variables
+## Show local vars, env vars and functions
