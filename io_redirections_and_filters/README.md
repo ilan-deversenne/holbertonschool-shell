@@ -45,3 +45,6 @@
 
 # 15-countthatword
 ## Count number of line that contains "bin"
+
+# 16-whatnext
+## Display lines containing "root" and the 3 next lines
