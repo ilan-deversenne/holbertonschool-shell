@@ -18,3 +18,6 @@
 
 # 6-create_local_variable
 ## Create local var BEST: School
+
+# 7-create_global_variable
+## Create env var BEST: School
