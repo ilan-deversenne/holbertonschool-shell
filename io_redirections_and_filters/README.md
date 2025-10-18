@@ -57,3 +57,6 @@
 
 # 19-AZ
 ## Show input but replace A to Z and c to e
+
+# 20-hiago
+## Display input but remove 'c' and 'C'
