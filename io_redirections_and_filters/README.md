@@ -36,3 +36,6 @@
 
 # 12-newest_files
 ## List last 10 newest files 
+
+# 13-unique
+## Take a list has input and prints only unique word
