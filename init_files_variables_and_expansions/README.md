@@ -6,3 +6,6 @@
 
 # 2-path
 ## Add /action to PATH
+
+# 3-paths
+## Counts dirs in PATH
