@@ -24,3 +24,6 @@
 
 # 8-true_knowledge
 ## Calculate TRUEKNOWLEDGE env var + 128
+
+# 9-divide_and_rule
+## POWER dived by DIVIDE
