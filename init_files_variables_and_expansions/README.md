@@ -30,3 +30,6 @@
 
 # 10-love_exponent_breath
 ## Power of BREATH TO LOVE
+
+# 11-binary_to_decimal
+## Convert BINARY to DEC
