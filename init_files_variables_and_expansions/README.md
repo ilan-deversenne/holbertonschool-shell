@@ -36,3 +36,6 @@
 
 # 12-combinations
 ## Print all two combinations but not print 'oo'
+
+# 13-print_float
+## Print $NUM but only 2 digits after .
