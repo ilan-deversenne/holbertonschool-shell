@@ -33,3 +33,6 @@
 
 # 11-binary_to_decimal
 ## Convert BINARY to DEC
+
+# 12-combinations
+## Print all two combinations but not print 'oo'
